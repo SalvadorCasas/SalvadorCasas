@@ -1,5 +1,6 @@
 ## Sobre mi 👋
 
+<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 <!--
 **SalvadorCasas/SalvadorCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
