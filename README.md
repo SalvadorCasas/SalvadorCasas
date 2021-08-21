@@ -1,6 +1,5 @@
-## <h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Soy+Salvador+Casas...;Bienvenidos+a+mi+GitHub+%3AD)](https://git.io/typing-svg)</h1>
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Soy+Salvador+Casas...;Bienvenidos+a+mi+GitHub+%3AD)](https://git.io/typing-svg)
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=my.id)
 
 ```javascript
 const salvador = {
