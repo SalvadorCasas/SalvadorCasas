@@ -30,7 +30,7 @@ const salvador = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1539890226/4845/rickroll.gif?1539890226"></div>
+<div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1539890226/4845/rickroll.gif?1539890226" width="250"></div>
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Contactame+a+través+de...)](https://git.io/typing-svg)
@@ -40,7 +40,7 @@ const salvador = {
 <a href="https://www.linkedin.com/in/salvador-casas/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/casas_salvador/?hl=es-la">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="mailto:salvadorcasas11@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-<div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?1579644131" width="150"></div>
+<div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?1579644131" width="250"></div>
 
 <br>
 <hr>
