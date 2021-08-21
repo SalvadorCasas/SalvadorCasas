@@ -4,7 +4,7 @@
 ```javascript
 const salvador = {
   pais: "Argentina",
-  provincia: "Cordoba Capital,
+  provincia: "Cordob,Capital,
   educacion: {
                         ispc: "Actualmente cursando Tecnicatura en Desarrollo Web y Aplicaciones Moviles | 2021",
                         famaf: "Completado Primer Año de Analisis en Computacion | 2018-2020",
