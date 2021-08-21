@@ -10,8 +10,8 @@ const salvador = {
   pais: "Argentina",
   provincia: "Cordoba,Capital,
   educacion: {
-               ispc: "Actualmente cursando Tecnicatura en Desarrollo Web y Aplicaciones Moviles | 2021",
-               famaf_unc: "Completado Primer Año de Analisis en Computacion | 2018-2020",
+               ISPC: "Actualmente cursando Tecnicatura en Desarrollo Web y Aplicaciones Moviles | 2021",
+               FAMAF_UNC: "Completado Primer Año de Analisis en Computacion | 2018-2020",
               },
 }
 ```
