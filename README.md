@@ -29,4 +29,4 @@ const salvador = {
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Contacto...)](https://git.io/typing-svg)
 <br>
 <br>
-<a href="https://www.linkedin.com/in/salvador-casas/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/salvador-casas/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
