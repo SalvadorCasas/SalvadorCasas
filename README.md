@@ -1,8 +1,7 @@
 
 
-
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-Bienvenidos a mi GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30">
+Bienvenidos a mi GitHub <img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30px"></h1>
 
 
 
