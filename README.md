@@ -17,7 +17,7 @@ const salvador = {
 ```
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Mis+Habilidades...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Herramientas+y+Habilidades...)](https://git.io/typing-svg)
 <br>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ const salvador = {
 <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1539890226/4845/rickroll.gif?1539890226"></div>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Contacto...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Contactame+a+través+de...)](https://git.io/typing-svg)
 <br>
 <br>
 
