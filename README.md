@@ -1,6 +1,6 @@
-## Sobre mi 👋
+## <h1>Sobre mi 👋</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=my.id)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=my.id)
 <!--
 **SalvadorCasas/SalvadorCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
