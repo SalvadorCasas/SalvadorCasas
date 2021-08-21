@@ -1,6 +1,9 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BDC4F7&size=24&lines=Soy+Salvador+Casas...;Bienvenidos+a+mi+GitHub+%3AD)](https://git.io/typing-svg)
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+Bienvenidos a mi GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+
 
 
 ```javascript
